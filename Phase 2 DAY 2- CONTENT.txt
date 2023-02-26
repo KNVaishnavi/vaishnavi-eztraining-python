@@ -1,0 +1,42 @@
+polymorphism:
+one item or same item used for different purposes.
+
+types:
+1)overloading
+   a. operator overloading
+      one a same operator function is used to add two different datatypes like 1+2=3,"1"+"2"=12
+   
+   b. method overloading
+2)over riding
+characters can be transformed from parent to child
+if a method is defective or cannot be used inside derived class it will take it from its base class or parent class.
+
+
+
+DATA STRUCTURES:
+1)linear DS
+array,linked list,stack,queue,matrix
+2)Non linear ds
+binary tree,hash table,heap,graph
+
+static:
+array
+
+dynamic:
+list,stack,queues
+
+linked list:
+ex -train
+as the name says list of items which are linked with one another is called as linked list
+
+creating linked list:
+steps
+1. create a node
+2. partion the node with two segments data,none
+3. add value into the blank node
+4. mark the node as head
+5. create the next node by following the above steps 
+6. establish link between the first and second node
+
+display linked list:
+traversal is required from first node till tail node inorder to display existing linked list
